@@ -1,4 +1,6 @@
-# lomography
+# lomography Image Carousel
+
+Exploring Nuxt by making an image carousel using the Lomography API.
 
 > My stunning Nuxt.js project
 
